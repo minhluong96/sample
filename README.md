@@ -1,4 +1,4 @@
-#Fullstack sample app
+# Fullstack sample app
 Learning fullstack with Nodejs, Expressjs, Reactjs, MongoDB
 
 ## How to run
